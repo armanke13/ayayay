@@ -1,0 +1,16 @@
+{
+  "name": "ayayay",
+  "version": "0.0.0",
+  "description": "I don't know what to do, so instead I'll try to build a bot to tell me what to do, :p",
+  "main": "behavior/scripts/index.js",
+  "scripts": {
+    "start": "initai-dev-server"
+  },
+  "author": "<my-name> <<my-email-address>>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "initai-dev-server": "^0.4.8",
+    "initai-node": "~0.0.7"
+  }
+}
